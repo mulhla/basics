@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www.mulhollandlaj\.com$
+RewriteRule (.*) http://www.mulhollandlaj.com/Home.html [R=301,L]
+RewriteRule ^$ store [L]
