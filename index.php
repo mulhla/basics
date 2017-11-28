@@ -1,3 +1,3 @@
 <?php
-echo "Luke's page - you shouldn't be here."
+echo "Did you just say frick on my Christian Minecraft Server?"
 ?>
